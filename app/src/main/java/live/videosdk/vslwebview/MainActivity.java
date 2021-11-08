@@ -37,8 +37,10 @@ public class MainActivity extends AppCompatActivity {
         });
 
         Uri.Builder builder = new Uri.Builder();
+
         builder.scheme("https")
-                .authority("dev-embed.zujonow.com")
+                .authority("embed.videosdk.live")
+                .appendPath("rtc-js-prebuilt/0.1.10")
                 .appendQueryParameter("name", "John Doe")
                 .appendQueryParameter("micEnabled", "true")
                 .appendQueryParameter("webcamEnabled", "true")
