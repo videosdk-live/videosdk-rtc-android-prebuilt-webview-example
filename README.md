@@ -11,7 +11,6 @@ This code sample demonstrates a one-to-one and group video call application buil
 - Inbuilt video and audio quality optimization.
 - Inbuilt chat poll, whiteboard, Q and A support.
 
-![video-sdk-mobile.jpg](./public/video-sdk-mobile.jpg)
 
 ## Features
 
