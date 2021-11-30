@@ -2,7 +2,7 @@
 
 ## What is it?
 
-This code sample demonstrates a one-to-one and group video call application built with [Video SDK Low Code Prebuilt SDK](https://docs.videosdk.live/docs/realtime-communication/sdk-reference/prebuilt-sdk-js/setup) with webview in Android.
+This code sample demonstrates a one-to-one and group video call application built with [Video SDK Low Code Prebuilt SDK](https://docs.videosdk.live/docs/guide/prebuilt-video-and-audio-calling/getting-started) with webview in Android.
 
 - Built mobile first experience for Android.
 - Compeletely serverless video calling
@@ -28,7 +28,7 @@ This code sample demonstrates a one-to-one and group video call application buil
 
 ## Device Support
 
-Visit our official [documentation](https://docs.videosdk.live/docs/realtime-communication/sdk-reference/react-native-sdk/setup) for more information
+Visit our official [documentation](https://docs.videosdk.live/docs/guide/prebuilt-video-and-audio-calling/getting-started) for more information
 
 ## Prerequisites
 
